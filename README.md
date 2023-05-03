@@ -1,5 +1,5 @@
 # project
-git clone https://github.com/khaled-hussien-13/project/
+git clone https://github.com/khaled-hussien-13/project
 
 cd .github/workflows
 
